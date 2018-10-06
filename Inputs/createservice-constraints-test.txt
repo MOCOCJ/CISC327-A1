@@ -3,30 +3,29 @@ planner
 createservice
 11111
 20181001
-Testcreateservice
+testcreateservice
 createservice
 1111
 20181001
-Incorrectcreateservice
+incorrectcreateservice
 createservice
 111111
 20181001
-Incorrectcreateservice
+incorrectcreateservice
 createservice
 01111
 20181001
-Incorrectcreateservice
+incorrectcreateservice
 createservice
 11111
 30001332
-Incorrectcreateservice
+incorrectcreateservice
 createservice
 11111
 20181001
-Nam
+nam
 createservice
 11111
 20181001
-Incorrectcreateservice Name Is Way To Long To Work
-Testcreateservice
+incorrectcreateservice Name Is Way To Long To Work
 logout
