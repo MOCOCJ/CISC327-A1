@@ -1,8 +1,5 @@
 login
-agent
-createservice
-11112
-Anyservice
+planner
 deleteservice
 11111
 Testcreateservice
