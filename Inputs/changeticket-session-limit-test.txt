@@ -1,6 +1,6 @@
 login
 agent
-selltickets
+sellticket
 11111
 30
 changeticket
