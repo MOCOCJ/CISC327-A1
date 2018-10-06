@@ -1,9 +1,9 @@
 login
 agent
-selltickets
+sellticket
 11111
 11
-selltickets
+sellticket
 22222
 11
 cancelticket
