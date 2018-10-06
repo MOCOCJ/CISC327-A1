@@ -1,10 +1,10 @@
 login
-Agent
-Selltickets
+agent
+sellticket
 11111
 11
-Changeticket
+hangeticket
 11111
 12345
 3
-Logout
+logout
