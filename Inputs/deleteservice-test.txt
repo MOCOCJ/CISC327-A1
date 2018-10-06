@@ -1,6 +1,6 @@
-Login
-Planner
-Deleteservice
+login
+planner
+deleteservice
 11111
 Testcreateservice
-Logout
+logout
