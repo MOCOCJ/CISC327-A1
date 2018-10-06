@@ -3,5 +3,5 @@ planner
 createservice
 11111
 20181001
-Testcreateservice
+ANewService
 logout
