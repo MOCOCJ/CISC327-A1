@@ -1,6 +1,6 @@
-Login
-Planner
-Sellticket
+login
+planner
+sellticket
 11112
 Testcreateservice
-Logout
+logout
