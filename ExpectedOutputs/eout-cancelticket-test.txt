@@ -1,0 +1,5 @@
+SEL 11111 2 0000 Testcancelservice 20181001
+CAN 11111 1 0000 
+Testcancelservice
+20181001
+EOS 0000 0 0000 **** 00000000
