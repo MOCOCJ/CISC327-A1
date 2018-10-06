@@ -1,5 +1,5 @@
-Login
-Selltickets
+login
+sellticket
 11111
 2
-Logout
+logout
